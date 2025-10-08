@@ -86,11 +86,12 @@ Game Report
 ---
 
 ## Personal suggestions
-1. The initial story had no sound.  
-2. The building process should be ongoing in the background while the games and strategy should be the focus of the player
-3. The use of adds for keys is overwhelming. Either give more keys for watching adds or introduce it later in the game after the player is hooked.
-4. There seems to be missing opportunities for story depth and more involved strategy.  By making each person introduced into the story a new type of gameplay you increase the strategy involved.  For the electrician there could be a flow type of game. For the mason, there could be a balance the bricks type of game with emphasis on speed.  For the carpenter a haptic type of game where you nail or plaster the walls and such. Solar, cleaning the water supply.  All of these increase the depth of the game. 
+1.  The initial story had no sound.  
+2.  The building process should be ongoing in the background while the games and strategy should be the focus of the player
+3.  The use of adds for keys is overwhelming. Either give more keys for watching adds or introduce it later in the game after the player is hooked.
+4.  There seems to be missing opportunities for story depth and more involved strategy.  By making each person introduced into the story a new type of gameplay you increase the strategy involved.  For the electrician there could be a flow type of game. For the mason, there could be a balance the bricks type of game with emphasis on speed.  For the carpenter a haptic type of game where you nail or plaster the walls and such. Solar, cleaning the water supply.  All of these increase the depth of the game. 
 5.  Lastly is a western view of the game. I would love to see the future of the country if we are talking about a comeup story.  Ideally build the future almost like a tycoon version of the game. Dare to dream and thanks for this opportunity. 
+6.  Level 35 tiered key winning system up to 5 keys for highest tier or fastest time completing.
 ---
 
 ## Deliverables
