@@ -1,12 +1,12 @@
 # MGameAnalysis
-# 🎮 Game Data Analysis Project
+# Game Data Analysis Project
 
-## 🧭 Overview
+##  Overview
 This project analyzes player data to uncover insights that improve game design, engagement, and monetization. It focuses on structuring gameplay data, building funnels and segmentation maps, and translating findings into actionable recommendations for better player experiences.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 safari_city_analysis/
 │
 ├── data/ # Raw and cleaned datasets (Firebase and simulated data)
