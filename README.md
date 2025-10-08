@@ -7,7 +7,7 @@ This project analyzes player data to uncover insights that improve game design, 
 ---
 
 ## Repository Structure
-safari_city_analysis/
+Game analysis/
 │
 ├── data/ # Raw and cleaned datasets (Firebase and simulated data)
 │ ├── firebase_overview.csv
@@ -84,4 +84,3 @@ This project is for educational and analytical purposes. Attribution required fo
 
 ---
 
-Would you like me to include a sample `requirements.txt` (with recommended Python libraries) to go with this README?
