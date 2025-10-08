@@ -1,0 +1,23 @@
+Requirements
+# Core Data Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Machine Learning & Clustering
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Jupyter & Notebooks
+jupyterlab>=4.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Utilities & Formatting
+tqdm>=4.66.0
+openpyxl>=3.1.0   # For working with Excel files
+xlrd>=2.0.1       # For reading older Excel formats
